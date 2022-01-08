@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @TemuhNice
 - 👀 I’m interested in new technologies, cars, learning smth new and in many other ways
-- 🌱 I’m currently learning Swift and Mobile development
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Java
 - 📫 How to reach me: tg: @temuh_nice, IG: temuh_nicee
 
 <!---
